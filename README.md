@@ -1,5 +1,8 @@
 # PostgreSQL CDC Debezium Kafka
 
+Read more here : https://vspiewak.com/turn-postgresql-to-event-stream-with-kafka-connect-and-debezium
+
+
 ## Starting services
     
     docker compose up -d
