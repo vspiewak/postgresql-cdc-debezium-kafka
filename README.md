@@ -1,6 +1,6 @@
 # PostgreSQL CDC Debezium Kafka
 
-Read more here : https://vspiewak.com/turn-postgresql-to-event-stream-with-kafka-connect-and-debezium
+Read more here : https://vspiewak.com/turn-postgresql-to-event-streams-with-kafka-connect-and-debezium
 
 
 ## Starting services
